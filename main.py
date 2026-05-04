@@ -190,8 +190,7 @@ class TrainingPlanner:
 
     def save_data(self):
         """Сохранение данных в JSON-файл"""
-        try
-def save_data(self):
+    def save_data(self):
         """Сохранение данных в JSON-файл"""
         try:
             with open("trainings.json", "w", encoding="utf-8") as f:
